@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/webProfil"
+        android:title="Profil"/>
+    <item
+        android:id="@+id/webBantuan"
+        android:title="Bantuan"/>
+    <item
+        android:id="@+id/webDonasi"
+        android:title="Berdonasi"/>
+    <item
+        android:id="@+id/webVerifikator"
+        android:title="Verifikator"/>
+    <item
+        android:id="@+id/webLaporan"
+        android:title="Laporan"/>
+</menu>
