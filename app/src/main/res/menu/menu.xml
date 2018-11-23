@@ -15,4 +15,9 @@
     <item
         android:id="@+id/webLaporan"
         android:title="Laporan"/>
+
+    <item
+        android:id="@+id/webSembarang"
+        android:title="Sembarang"/>
+
 </menu>
